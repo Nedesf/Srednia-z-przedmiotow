@@ -1,0 +1,33 @@
+//Wszystkie przedmioty musza byc rzeczownikami w dopelniaczu.
+
+//Wymienianie przedmiotow musi byc poprzedzone jednym z 2 ponizszych zwrotow:
+//WSZYSTKIE KLASY - przedmioty, ktore sa przez cale 3 lata nauki
+//KLASA 1-3 - przedmioty, ktore sa obowiazkowe przez okreslony rok nauki
+//Jezeli jakis przedmiot sie powtarza (np. w 2 i 3 klasie) do przedmiotu dopisujemy "(X klasa)" X = numer klasy,
+//np. sztuka(2 klasa)
+
+//Wymienianie przedmiotow dla danej klasy konczymy uzywajac "KONIEC"
+//1 linijka = 1 przedmiot lub komenda(WSZYSTKIE KLASY / KLASA 1-3 / KONIEC)
+WSZYSTKIE KLASY
+religii
+polskiego
+historii
+j. angielskiego
+j. niemieckiego
+matematyki
+fizyki
+chemii
+biologii
+geografii
+informatyki
+wychowania fizycznego
+mechatroniki
+KONIEC
+KLASA 1
+plastyki
+muzyki
+KONIEC
+KLASA 2
+KONIEC
+KLASA 3
+KONIEC

@@ -1,0 +1,23 @@
+WSZYSTKIE KLASY
+religii
+polskiego
+historii
+j. angielskiego
+j. niemieckiego
+matematyki
+fizyki
+chemii
+biologii
+geografii
+informatyki
+wychowania fizycznego
+mechatroniki
+KONIEC
+KLASA 1
+plastyki
+muzyki
+KONIEC
+KLASA 2
+KONIEC
+KLASA 3
+KONIEC
