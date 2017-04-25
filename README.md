@@ -1,0 +1,1 @@
+# Srednia-z-przedmiotow
